@@ -1,0 +1,17 @@
+throughput 1
+activeFlowNum 1
+protocolCount 1
+packetSize 1
+pktInterArrivalTime 1
+flowInterArrivalTime 1
+IPv4DstByteCount 1
+TCPCongestionInfo 0
+heavyLittleFlowSize 1
+fiveTupleFlowInfo 1
+heavyLittleFlowInfo 1
+burstDuration 1
+burstPacketNum 1
+burstByteCount 1
+sketchTopK 1
+sketchTopKDetail 0
+burst 1

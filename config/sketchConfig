@@ -1,0 +1,3 @@
+heavyPartSize 1000
+threshold 8
+topk 5
